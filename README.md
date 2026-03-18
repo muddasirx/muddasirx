@@ -66,7 +66,7 @@
 
 <div align="center">
   
-[![Website](https://img.shields.io/badge/Portfolio-muddasirx-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://muddasirx.netlify.app/)
+[![Website](https://img.shields.io/badge/Portfolio-muddasirx-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://muddasirx.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-muddasir-74a328306/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muddasirx)
 [![Email](https://img.shields.io/badge/Email-muhammadmuddasir.dev@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadmuddasir.dev@gmail.com)
