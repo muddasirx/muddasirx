@@ -56,8 +56,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muddasirx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muddasirx&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muddasirx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </div>
 
 ---
