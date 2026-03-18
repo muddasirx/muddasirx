@@ -73,13 +73,6 @@
 
 ---
 
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muddasirx&theme=tokyo-night&hide_border=true" alt="Activity Graph">
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -88,39 +81,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-muddasir-74a328306/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muddasirx)
 [![Email](https://img.shields.io/badge/Email-trainwithshubham@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadmuddasir.dev@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1400920869018009710)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=gmail&logoColor=white)](https://discord.gg/1400920869018009710)
 
 </div>
 
-
-
-
-## 📍 About Me:
-### 🧑🏻‍💻 Muhammad Muddasir — DevOps Engineer<br>
-
-DevOps Engineer, Cloud Engineer, and Linux System Administrator with hands-on experience building, automating, and deploying scalable systems. Skilled in cloud platforms, containerization, and CI/CD pipelines, with a strong focus on Linux-based environments and real-world infrastructure management. I specialize in turning manual processes into automated workflows and ensuring systems run reliably in production.<br><br>⚡ Focused on cloud infrastructure, CI/CD, and containerized deployments<br><br>🛠 Hands-on with real AWS deployments, not just theory<br><br>🧠 Strong in Linux, automation, and debugging broken pipelines (because they will break)<br><br>
-
-
-## 🌐 Socials:
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muddasirx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:)
-<br>
-
-## 💻 Tech Stack:
-<p align="left">
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
- 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-</p>
-<br>
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muddasirx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
