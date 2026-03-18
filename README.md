@@ -1,6 +1,7 @@
-## 💫 About Me:
+## 📍 About Me:
 ### 🧑🏻‍💻 Muhammad Muddasir — DevOps Engineer<br>
-<br>🖥️ I build and automate systems that actually run in production — not just tutorials.<br><br>⚡ Focused on cloud infrastructure, CI/CD, and containerized deployments<br><br>🛠 Hands-on with real AWS deployments, not just theory<br><br>🧠 Strong in Linux, automation, and debugging broken pipelines (because they will break)<br><br>
+
+DevOps Engineer, Cloud Engineer, and Linux System Administrator with hands-on experience building, automating, and deploying scalable systems. Skilled in cloud platforms, containerization, and CI/CD pipelines, with a strong focus on Linux-based environments and real-world infrastructure management. I specialize in turning manual processes into automated workflows and ensuring systems run reliably in production.<br><br>⚡ Focused on cloud infrastructure, CI/CD, and containerized deployments<br><br>🛠 Hands-on with real AWS deployments, not just theory<br><br>🧠 Strong in Linux, automation, and debugging broken pipelines (because they will break)<br><br>
 
 
 ## 🌐 Socials:
