@@ -76,14 +76,3 @@
 [![Email](https://img.shields.io/badge/Email-muhammadmuddasir.dev@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadmuddasir.dev@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-Invite-purple?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/1400920869018009710)
 
- ---
-
-<div align="center">
-  
-### 💡 "Turning code into reliable, scalable systems" 
-
-</div>
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
